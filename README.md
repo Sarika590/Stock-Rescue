@@ -1,5 +1,6 @@
  ♻️ StockRescue AI
 Turn Surplus Stock into Smart Opportunities
+https://pixel-perfect-snapshot-8505.lovable.app 
 
 StockRescue AI is an AI-powered inventory recovery agent designed to help small retailers reduce unsold stock, minimize product waste, and improve profitability. It identifies excess and slow-moving inventory, estimates future demand, compares recovery strategies, and connects surplus stock with potential demand from nearby shops.
 
